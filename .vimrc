@@ -1,27 +1,3 @@
-Last login: Tue Nov 22 22:41:28 on ttys009
-➜  ~ vim ~/.vimrc               
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 set tabstop=2
 set shiftwidth=2
 set expandtab
